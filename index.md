@@ -7,6 +7,7 @@ layout: default
 ## whoami
 
 _cat /home/GiF/Desktop/presentazione.txt_
+
 Ciao! Sono **Giacomo**
 
 _Sono un appassionato di tecnologia e sicurezza informatica, specializzato nella cybersecurity. Ho un forte background in informatica e sicurezza delle reti._
@@ -15,7 +16,7 @@ Negli ultimi anni, ho seguito certificazioni in `cybersecurity`, acquisendo comp
 
 Quando non sono immerso nel mondo tech, adoro lavorare su progetti creativi, dove posso mettere in gioco le mie `doti organizzative e comunicative ` e di `problem solving`.
 
-### projects
+## projects
 
 > This is a blockquote following a header.
 >
