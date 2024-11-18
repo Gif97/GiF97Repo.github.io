@@ -2,9 +2,16 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+Ciao! Sono **Giacomo**
+
+_Sono un appassionato di tecnologia e sicurezza informatica, specializzato nella cybersecurity. Ho un forte background in informatica e sicurezza delle reti._
+
+Negli ultimi anni, ho seguito certificazioni in `cybersecurity`, acquisendo competenze in `virtualizzazione`, `sistemi Linux`, `gestione della sicurezza`, reti e risoluzione di problematiche complesse. Mi piace affrontare nuove sfide, sia nell'ambito della programmazione (conoscenza di C, Java, Python, HTML, CSS) che nella gestione di infrastrutture di rete.
+
+Quando non sono immerso nel mondo tech, adoro lavorare su progetti creativi, dove posso mettere in gioco le mie `doti organizzative e comunicative ` e di `problem solving`.
+
+
 
 There should be whitespace between paragraphs.
 
