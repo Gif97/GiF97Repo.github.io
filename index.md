@@ -6,6 +6,7 @@ layout: default
 
 ## whoami
 
+_cat /home/GiF/Desktop/presentazione.txt_
 Ciao! Sono **Giacomo**
 
 _Sono un appassionato di tecnologia e sicurezza informatica, specializzato nella cybersecurity. Ho un forte background in informatica e sicurezza delle reti._
